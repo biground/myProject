@@ -1,0 +1,55 @@
+{
+"frames": {
+	"neo-fall1.png": {
+		"frame": {"x":0, "y":0, "w":68, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":68,"h":84},
+		"sourceSize": {"w":68,"h":84}
+	},
+	"neo-idle1.png": {
+		"frame": {"x":130, "y":0, "w":60, "h":82},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":82},
+		"sourceSize": {"w":60,"h":82}
+	},
+	"neo-jump1.png": {
+		"frame": {"x":65, "y":166, "w":64, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":84},
+		"sourceSize": {"w":64,"h":84}
+	},
+	"neo-run1.png": {
+		"frame": {"x":130, "y":83, "w":60, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":84},
+		"sourceSize": {"w":60,"h":84}
+	},
+	"neo-run2.png": {
+		"frame": {"x":0, "y":166, "w":64, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":84},
+		"sourceSize": {"w":64,"h":84}
+	},
+	"neo-run3.png": {
+		"frame": {"x":0, "y":85, "w":68, "h":80},
+		"spriteSourceSize": {"x":0,"y":0,"w":68,"h":80},
+		"sourceSize": {"w":68,"h":80}
+	},
+	"neo-run4.png": {
+		"frame": {"x":191, "y":0, "w":60, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":84},
+		"sourceSize": {"w":60,"h":84}
+	},
+	"neo-run5.png": {
+		"frame": {"x":69, "y":0, "w":60, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":84},
+		"sourceSize": {"w":60,"h":84}
+	},
+	"neo-run6.png": {
+		"frame": {"x":69, "y":85, "w":56, "h":80},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":80},
+		"sourceSize": {"w":56,"h":80}
+	}
+
+},
+"meta": {
+	"image": "neo.png",
+	"size": {"w": 252, "h": 251},
+	"scale": "1"
+}
+}

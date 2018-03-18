@@ -1,0 +1,34 @@
+﻿<html>
+<head>
+    <title>星球大战简化版</title>
+    <meta http-equiv="content-type" content="text/html" charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script type="text/javascript" src="js/phaser.js"></script>
+    <script type="text/javascript" src="js/boot.js"></script>
+    <script type="text/javascript" src="js/loader.js"></script>
+    <script type="text/javascript" src="js/menu.js"></script>
+    <script type="text/javascript" src="js/play.js"></script>
+</head>
+
+<body>
+    <div id="container">
+    </div>
+    <script>
+        var game = new Phaser.Game(320, 568, Phaser.AUTO, 'container');  //实例化一个Phaser的游戏实例
+        game.States = {};
+        game.States.boot = function() {};       //boot场景用于做一些游戏启动前的准备
+        game.States.preload = function() {};    //preload场景，用来显示资源加载的进度
+        game.States.menu = function() {};       //menu场景，游戏菜单
+        game.States.play = function() {};       //play场景，正式的游戏部分
+
+        //将定义好的场景添加到游戏中
+        game.state.add('bootState', bootState);
+        game.state.add('loaderState', loaderState);
+        game.state.add('menuState', menuState);
+        game.state.add('playState', playState);
+
+        //调用boot场景启动游戏
+        game.state.start('bootState');
+    </script>
+</body>
+</html>

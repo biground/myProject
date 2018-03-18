@@ -1,0 +1,132 @@
+body
+{
+    text-align: center;
+    background-image: url("../images/bg.jpg");
+}
+.back
+{
+    background: #efefef url("../images/deck.png");
+    -webkit-transform: rotateY(180deg);
+    z-index: 8;
+}
+#game
+{
+    width: 502px;
+    height: 462px;
+    margin: 0 auto;
+    border: 1px solid #666;
+    border-radius: 10px;
+    background-image: url("../images/table.jpg");
+    position: relative;
+    display: -webkit-box;
+    -webkit-box-pack:center;
+    -webkit-box-align:center;
+}
+#cards
+{
+    width: 380px;
+    height: 400px;
+    position: relative;
+	margin:30px auto;
+}
+.card
+{
+    width: 80px;
+    height: 120px;
+    position: absolute;
+}
+.card-flipped .front
+{
+    z-index: 8;
+    -webkit-transform: rotateY(180deg);
+}
+.card-flipped .back
+{
+    z-index: 10;
+    -webkit-transform: rotateY(0deg);
+}
+@-webkit-keyframes card-removed {
+    0% {
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+}
+.card-removed {
+    -webkit-animation: card-removed 0.5s;
+    -o-animation: card-removed 0.5s;
+    animation: card-removed 0.5s;
+}
+.face
+{
+    width: 100%;
+    height: 100%;
+    border-radius:10px;
+    position: absolute;
+    -webkit-backface-visibility: hidden;
+    -webkit-transition:all .3s;
+}
+.face:hover
+{
+    -webkit-box-shadow: 0 0 40px #aaa;
+}
+.front
+{
+    background: #999 url("../images/deck.png") 0 -480px;
+    z-index: 10;
+}
+.cardAJ{background-position: -800px 0;}
+.cardAQ{background-position: -880px 0;}
+.cardAK{background-position: -960px 0;}
+.cardBJ{background-position: -800px -120px;}
+.cardBQ{background-position: -880px -120px;}
+.cardBK{background-position: -960px -120px;}
+.cardCJ{background-position: -800px -240px;}
+.cardCQ{background-position: -880px -240px;}
+.cardCK{background-position: -960px -240px;}
+.cardDJ{background-position: -800px -360px;}
+.cardDQ{background-position: -880px -360px;}
+.cardDK{background-position: -960px -360px;}
+
+#enddiv {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    -webkit-box-shadow: 0 0 40px #ff8c00;
+    background-color: #ffe200;
+    border-color: #ff5400;
+    position: absolute;
+    width: 70%;
+    height: 70%;
+    top: 15%;
+    left: 15%;
+    z-index: 20;
+    display: none;
+    line-height: 10px;
+}
+#enddiv .p{
+    border-top:1px solid #000;
+    border-bottom: 1px solid #000;
+}
+#enddiv .end{
+    font-size: 3em;
+    font-weight:bold;
+}
+#enddiv p{
+    font-size: 1em;
+    font-weight:bold;
+}
+#enddiv button{
+    position: absolute;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    top:70%;
+    left: 25%;
+    width: 50%;
+    height: 60px;
+    font-size: 2em;
+    background-color: #fffb7d;
+    z-index: 20;
+}

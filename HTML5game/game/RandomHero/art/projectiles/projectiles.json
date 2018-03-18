@@ -1,0 +1,165 @@
+{
+"frames": {
+	"bullet1": {
+		"frame": {"x":106, "y":188, "w":28, "h":12},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":12},
+		"sourceSize": {"w":28,"h":12}
+	},
+	"bullet2": {
+		"frame": {"x":85, "y":25, "w":36, "h":12},
+		"spriteSourceSize": {"x":0,"y":0,"w":36,"h":12},
+		"sourceSize": {"w":36,"h":12}
+	},
+	"bullet3": {
+		"frame": {"x":89, "y":0, "w":36, "h":12},
+		"spriteSourceSize": {"x":0,"y":0,"w":36,"h":12},
+		"sourceSize": {"w":36,"h":12}
+	},
+	"bullet4": {
+		"frame": {"x":81, "y":50, "w":48, "h":20},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":20},
+		"sourceSize": {"w":48,"h":20}
+	},
+	"bullet5": {
+		"frame": {"x":106, "y":171, "w":32, "h":16},
+		"spriteSourceSize": {"x":0,"y":0,"w":32,"h":16},
+		"sourceSize": {"w":32,"h":16}
+	},
+	"bullet6": {
+		"frame": {"x":126, "y":0, "w":28, "h":12},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":12},
+		"sourceSize": {"w":28,"h":12}
+	},
+	"diagonal_bullet1": {
+		"frame": {"x":139, "y":153, "w":28, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":28},
+		"sourceSize": {"w":28,"h":28}
+	},
+	"drop1": {
+		"frame": {"x":168, "y":149, "w":24, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":24,"h":28},
+		"sourceSize": {"w":24,"h":28}
+	},
+	"drop2": {
+		"frame": {"x":174, "y":49, "w":24, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":24,"h":28},
+		"sourceSize": {"w":24,"h":28}
+	},
+	"enemy_bullet1": {
+		"frame": {"x":62, "y":108, "w":40, "h":16},
+		"spriteSourceSize": {"x":0,"y":0,"w":40,"h":16},
+		"sourceSize": {"w":40,"h":16}
+	},
+	"energy_bomb1": {
+		"frame": {"x":168, "y":124, "w":24, "h":24},
+		"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+		"sourceSize": {"w":24,"h":24}
+	},
+	"energy_bomb2": {
+		"frame": {"x":112, "y":71, "w":32, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+		"sourceSize": {"w":32,"h":32}
+	},
+	"flamer_blur_flame1": {
+		"frame": {"x":168, "y":104, "w":25, "h":19},
+		"spriteSourceSize": {"x":1,"y":0,"w":26,"h":19},
+		"sourceSize": {"w":26,"h":19}
+	},
+	"flamer_blur_flame2": {
+		"frame": {"x":103, "y":108, "w":35, "h":29},
+		"spriteSourceSize": {"x":1,"y":1,"w":36,"h":30},
+		"sourceSize": {"w":36,"h":30}
+	},
+	"flamer_blur_flame3": {
+		"frame": {"x":62, "y":71, "w":49, "h":36},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":36},
+		"sourceSize": {"w":50,"h":36}
+	},
+	"flamer_blur_flame4": {
+		"frame": {"x":0, "y":71, "w":61, "h":45},
+		"spriteSourceSize": {"x":2,"y":0,"w":63,"h":46},
+		"sourceSize": {"w":63,"h":46}
+	},
+	"flamer_blur_flame5": {
+		"frame": {"x":0, "y":117, "w":61, "h":45},
+		"spriteSourceSize": {"x":0,"y":0,"w":61,"h":45},
+		"sourceSize": {"w":61,"h":45}
+	},
+	"flamer_flame1": {
+		"frame": {"x":135, "y":188, "w":16, "h":12},
+		"spriteSourceSize": {"x":0,"y":0,"w":16,"h":12},
+		"sourceSize": {"w":16,"h":12}
+	},
+	"flamer_flame2": {
+		"frame": {"x":122, "y":13, "w":28, "h":20},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":20},
+		"sourceSize": {"w":28,"h":20}
+	},
+	"flamer_flame3": {
+		"frame": {"x":62, "y":125, "w":40, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":40,"h":28},
+		"sourceSize": {"w":40,"h":28}
+	},
+	"flamer_flame4": {
+		"frame": {"x":53, "y":163, "w":52, "h":36},
+		"spriteSourceSize": {"x":0,"y":0,"w":52,"h":36},
+		"sourceSize": {"w":52,"h":36}
+	},
+	"flamer_flame5": {
+		"frame": {"x":0, "y":163, "w":52, "h":36},
+		"spriteSourceSize": {"x":0,"y":0,"w":52,"h":36},
+		"sourceSize": {"w":52,"h":36}
+	},
+	"grenade1": {
+		"frame": {"x":130, "y":34, "w":28, "h":20},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":20},
+		"sourceSize": {"w":28,"h":20}
+	},
+	"ground_flame1": {
+		"frame": {"x":0, "y":25, "w":84, "h":24},
+		"spriteSourceSize": {"x":0,"y":0,"w":84,"h":24},
+		"sourceSize": {"w":84,"h":24}
+	},
+	"ground_flame2": {
+		"frame": {"x":0, "y":0, "w":88, "h":24},
+		"spriteSourceSize": {"x":0,"y":0,"w":88,"h":24},
+		"sourceSize": {"w":88,"h":24}
+	},
+	"ground_flame3": {
+		"frame": {"x":0, "y":50, "w":80, "h":20},
+		"spriteSourceSize": {"x":0,"y":0,"w":80,"h":20},
+		"sourceSize": {"w":80,"h":20}
+	},
+	"missile1": {
+		"frame": {"x":159, "y":0, "w":27, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":27,"h":48},
+		"sourceSize": {"w":27,"h":48}
+	},
+	"missile2": {
+		"frame": {"x":145, "y":55, "w":28, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":48},
+		"sourceSize": {"w":28,"h":48}
+	},
+	"missile3": {
+		"frame": {"x":159, "y":0, "w":27, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":27,"h":48},
+		"sourceSize": {"w":27,"h":48}
+	},
+	"missile4": {
+		"frame": {"x":139, "y":104, "w":28, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":48},
+		"sourceSize": {"w":28,"h":48}
+	},
+	"worm_egg1": {
+		"frame": {"x":106, "y":138, "w":32, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+		"sourceSize": {"w":32,"h":32}
+	}
+
+},
+"meta": {
+	"image": "projectiles.png",
+	"size": {"w": 199, "h": 201},
+	"scale": "1"
+}
+}

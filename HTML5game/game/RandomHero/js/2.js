@@ -1,0 +1,3 @@
+function movePlatforms(platform) {
+    if (platform.body.sprite.name == 'horizontal') {   //check for the moving direction         if (platform.body.x > platform.body.sprite.rightbounds){  platform.body.sprite.velo *= -1;} //if reached bounds reverse speed        if (platform.body.x < platform.body.sprite.leftbounds) { platform.body.sprite.velo *= -1;}  // reverse speed        platform.body.velocity.x = platform.body.sprite.velo;    } else if (platform.body.sprite.name == 'vertical'){        if (platform.body.y > platform.body.sprite.bottombounds){  platform.body.sprite.velo *= -1;}        if (platform.body.y < platform.body.sprite.topbounds) { platform.body.sprite.velo *= -1;}        platform.body.velocity.y = platform.body.sprite.velo;    }
+    }

@@ -1,0 +1,260 @@
+{
+"frames": {
+	"costume_bkg.png": {
+		"frame": {"x":0, "y":0, "w":916, "h":192},
+		"spriteSourceSize": {"x":0,"y":0,"w":916,"h":192},
+		"sourceSize": {"w":916,"h":192}
+	},
+	"costume_icon_bandit.png": {
+		"frame": {"x":324, "y":560, "w":60, "h":80},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":80},
+		"sourceSize": {"w":60,"h":80}
+	},
+	"costume_icon_bank_robber.png": {
+		"frame": {"x":435, "y":386, "w":56, "h":80},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":80},
+		"sourceSize": {"w":56,"h":80}
+	},
+	"costume_icon_brawler.png": {
+		"frame": {"x":196, "y":779, "w":64, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":96},
+		"sourceSize": {"w":64,"h":96}
+	},
+	"costume_icon_cheerleader.png": {
+		"frame": {"x":105, "y":617, "w":76, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":76,"h":88},
+		"sourceSize": {"w":76,"h":88}
+	},
+	"costume_icon_cop.png": {
+		"frame": {"x":248, "y":386, "w":64, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":88},
+		"sourceSize": {"w":64,"h":88}
+	},
+	"costume_icon_general.png": {
+		"frame": {"x":326, "y":641, "w":60, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":88},
+		"sourceSize": {"w":60,"h":88}
+	},
+	"costume_icon_gentleman.png": {
+		"frame": {"x":385, "y":471, "w":60, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":96},
+		"sourceSize": {"w":60,"h":96}
+	},
+	"costume_icon_girl.png": {
+		"frame": {"x":444, "y":568, "w":56, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":84},
+		"sourceSize": {"w":56,"h":84}
+	},
+	"costume_icon_hippie.png": {
+		"frame": {"x":182, "y":589, "w":72, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":72,"h":96},
+		"sourceSize": {"w":72,"h":96}
+	},
+	"costume_icon_indiana.png": {
+		"frame": {"x":190, "y":686, "w":68, "h":92},
+		"spriteSourceSize": {"x":0,"y":0,"w":68,"h":92},
+		"sourceSize": {"w":68,"h":92}
+	},
+	"costume_icon_jester.png": {
+		"frame": {"x":171, "y":423, "w":76, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":76,"h":96},
+		"sourceSize": {"w":76,"h":96}
+	},
+	"costume_icon_king.png": {
+		"frame": {"x":374, "y":386, "w":60, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":84},
+		"sourceSize": {"w":60,"h":84}
+	},
+	"costume_icon_lumberjack.png": {
+		"frame": {"x":326, "y":815, "w":60, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":96},
+		"sourceSize": {"w":60,"h":96}
+	},
+	"costume_icon_lunatic.png": {
+		"frame": {"x":387, "y":706, "w":56, "h":76},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":76},
+		"sourceSize": {"w":56,"h":76}
+	},
+	"costume_icon_napoleon.png": {
+		"frame": {"x":255, "y":589, "w":68, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":68,"h":96},
+		"sourceSize": {"w":68,"h":96}
+	},
+	"costume_icon_neo.png": {
+		"frame": {"x":326, "y":730, "w":60, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":84},
+		"sourceSize": {"w":60,"h":84}
+	},
+	"costume_icon_ninja.png": {
+		"frame": {"x":387, "y":621, "w":56, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":84},
+		"sourceSize": {"w":56,"h":84}
+	},
+	"costume_icon_nun.png": {
+		"frame": {"x":387, "y":783, "w":56, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":84},
+		"sourceSize": {"w":56,"h":84}
+	},
+	"costume_icon_professor.png": {
+		"frame": {"x":444, "y":653, "w":52, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":52,"h":72},
+		"sourceSize": {"w":52,"h":72}
+	},
+	"costume_icon_rambo.png": {
+		"frame": {"x":322, "y":471, "w":60, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":88},
+		"sourceSize": {"w":60,"h":88}
+	},
+	"costume_icon_robo.png": {
+		"frame": {"x":313, "y":386, "w":60, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":84},
+		"sourceSize": {"w":60,"h":84}
+	},
+	"costume_icon_trucker.png": {
+		"frame": {"x":261, "y":783, "w":64, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":84},
+		"sourceSize": {"w":64,"h":84}
+	},
+	"costume_icon_worker.png": {
+		"frame": {"x":261, "y":686, "w":64, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":96},
+		"sourceSize": {"w":64,"h":96}
+	},
+	"costume_icon_zombie.png": {
+		"frame": {"x":257, "y":475, "w":64, "h":92},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":92},
+		"sourceSize": {"w":64,"h":92}
+	},
+	"iap_coins1.png": {
+		"frame": {"x":444, "y":779, "w":30, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":30,"h":40},
+		"sourceSize": {"w":30,"h":40}
+	},
+	"iap_coins2.png": {
+		"frame": {"x":444, "y":726, "w":32, "h":52},
+		"spriteSourceSize": {"x":0,"y":0,"w":32,"h":52},
+		"sourceSize": {"w":32,"h":52}
+	},
+	"iap_coins3.png": {
+		"frame": {"x":385, "y":568, "w":57, "h":52},
+		"spriteSourceSize": {"x":0,"y":0,"w":57,"h":52},
+		"sourceSize": {"w":57,"h":52}
+	},
+	"iap_coins4.png": {
+		"frame": {"x":182, "y":520, "w":74, "h":68},
+		"spriteSourceSize": {"x":0,"y":0,"w":74,"h":68},
+		"sourceSize": {"w":74,"h":68}
+	},
+	"iap_coins5.png": {
+		"frame": {"x":0, "y":830, "w":98, "h":62},
+		"spriteSourceSize": {"x":0,"y":0,"w":98,"h":62},
+		"sourceSize": {"w":98,"h":62}
+	},
+	"iap_item_bkg.png": {
+		"frame": {"x":0, "y":386, "w":170, "h":201},
+		"spriteSourceSize": {"x":0,"y":0,"w":170,"h":201},
+		"sourceSize": {"w":170,"h":201}
+	},
+	"weapon_bkg.png": {
+		"frame": {"x":0, "y":193, "w":916, "h":192},
+		"spriteSourceSize": {"x":0,"y":0,"w":916,"h":192},
+		"sourceSize": {"w":916,"h":192}
+	},
+	"weapon_icon_9mm.png": {
+		"frame": {"x":436, "y":868, "w":48, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":32},
+		"sourceSize": {"w":48,"h":32}
+	},
+	"weapon_icon_9mm_machine.png": {
+		"frame": {"x":387, "y":868, "w":48, "h":36},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":36},
+		"sourceSize": {"w":48,"h":36}
+	},
+	"weapon_icon_ak.png": {
+		"frame": {"x":0, "y":633, "w":104, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":104,"h":44},
+		"sourceSize": {"w":104,"h":44}
+	},
+	"weapon_icon_assault_rifle.png": {
+		"frame": {"x":0, "y":715, "w":100, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":100,"h":40},
+		"sourceSize": {"w":100,"h":40}
+	},
+	"weapon_icon_bazooka.png": {
+		"frame": {"x":0, "y":756, "w":100, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":100,"h":40},
+		"sourceSize": {"w":100,"h":40}
+	},
+	"weapon_icon_blaster.png": {
+		"frame": {"x":0, "y":678, "w":104, "h":36},
+		"spriteSourceSize": {"x":0,"y":0,"w":104,"h":36},
+		"sourceSize": {"w":104,"h":36}
+	},
+	"weapon_icon_eagle.png": {
+		"frame": {"x":196, "y":876, "w":60, "h":36},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":36},
+		"sourceSize": {"w":60,"h":36}
+	},
+	"weapon_icon_flamer.png": {
+		"frame": {"x":99, "y":830, "w":96, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":96,"h":32},
+		"sourceSize": {"w":96,"h":32}
+	},
+	"weapon_icon_grenade.png": {
+		"frame": {"x":101, "y":752, "w":84, "h":36},
+		"spriteSourceSize": {"x":0,"y":0,"w":84,"h":36},
+		"sourceSize": {"w":84,"h":36}
+	},
+	"weapon_icon_minigun.png": {
+		"frame": {"x":105, "y":588, "w":76, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":76,"h":28},
+		"sourceSize": {"w":76,"h":28}
+	},
+	"weapon_icon_pulse.png": {
+		"frame": {"x":99, "y":863, "w":96, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":96,"h":44},
+		"sourceSize": {"w":96,"h":44}
+	},
+	"weapon_icon_rail.png": {
+		"frame": {"x":101, "y":715, "w":88, "h":36},
+		"spriteSourceSize": {"x":0,"y":0,"w":88,"h":36},
+		"sourceSize": {"w":88,"h":36}
+	},
+	"weapon_icon_revolver.png": {
+		"frame": {"x":257, "y":876, "w":56, "h":36},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":36},
+		"sourceSize": {"w":56,"h":36}
+	},
+	"weapon_icon_rocket.png": {
+		"frame": {"x":101, "y":789, "w":84, "h":36},
+		"spriteSourceSize": {"x":0,"y":0,"w":84,"h":36},
+		"sourceSize": {"w":84,"h":36}
+	},
+	"weapon_icon_shotgun.png": {
+		"frame": {"x":0, "y":797, "w":100, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":100,"h":32},
+		"sourceSize": {"w":100,"h":32}
+	},
+	"weapon_icon_submachine.png": {
+		"frame": {"x":171, "y":386, "w":76, "h":36},
+		"spriteSourceSize": {"x":0,"y":0,"w":76,"h":36},
+		"sourceSize": {"w":76,"h":36}
+	},
+	"weapon_icon_tommy.png": {
+		"frame": {"x":0, "y":588, "w":104, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":104,"h":44},
+		"sourceSize": {"w":104,"h":44}
+	},
+	"weapon_stat.png": {
+		"frame": {"x":0, "y":893, "w":30, "h":18},
+		"spriteSourceSize": {"x":0,"y":0,"w":30,"h":18},
+		"sourceSize": {"w":30,"h":18}
+	}
+
+},
+"meta": {
+	"image": "shop.png",
+	"size": {"w": 917, "h": 913},
+	"scale": "1"
+}
+}

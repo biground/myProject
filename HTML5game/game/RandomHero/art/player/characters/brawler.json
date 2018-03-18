@@ -1,0 +1,55 @@
+{
+"frames": {
+	"brawler-fall1.png": {
+		"frame": {"x":0, "y":97, "w":72, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":72,"h":96},
+		"sourceSize": {"w":72,"h":96}
+	},
+	"brawler-idle1.png": {
+		"frame": {"x":138, "y":97, "w":64, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":96},
+		"sourceSize": {"w":64,"h":96}
+	},
+	"brawler-jump1.png": {
+		"frame": {"x":0, "y":0, "w":72, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":72,"h":96},
+		"sourceSize": {"w":72,"h":96}
+	},
+	"brawler-run1.png": {
+		"frame": {"x":203, "y":97, "w":64, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":96},
+		"sourceSize": {"w":64,"h":96}
+	},
+	"brawler-run2.png": {
+		"frame": {"x":73, "y":0, "w":67, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":67,"h":96},
+		"sourceSize": {"w":67,"h":96}
+	},
+	"brawler-run3.png": {
+		"frame": {"x":0, "y":194, "w":72, "h":92},
+		"spriteSourceSize": {"x":0,"y":0,"w":72,"h":92},
+		"sourceSize": {"w":72,"h":92}
+	},
+	"brawler-run4.png": {
+		"frame": {"x":73, "y":190, "w":64, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":96},
+		"sourceSize": {"w":64,"h":96}
+	},
+	"brawler-run5.png": {
+		"frame": {"x":141, "y":0, "w":64, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":96},
+		"sourceSize": {"w":64,"h":96}
+	},
+	"brawler-run6.png": {
+		"frame": {"x":73, "y":97, "w":64, "h":92},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":92},
+		"sourceSize": {"w":64,"h":92}
+	}
+
+},
+"meta": {
+	"image": "brawler.png",
+	"size": {"w": 268, "h": 287},
+	"scale": "1"
+}
+}

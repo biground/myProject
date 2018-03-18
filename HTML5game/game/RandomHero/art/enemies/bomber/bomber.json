@@ -1,0 +1,40 @@
+{
+"frames": {
+	"bomber-hd1.png": {
+		"frame": {"x":89, "y":150, "w":84, "h":76},
+		"spriteSourceSize": {"x":0,"y":0,"w":84,"h":76},
+		"sourceSize": {"w":84,"h":76}
+	},
+	"bomber-hd2.png": {
+		"frame": {"x":0, "y":146, "w":88, "h":76},
+		"spriteSourceSize": {"x":0,"y":0,"w":88,"h":76},
+		"sourceSize": {"w":88,"h":76}
+	},
+	"bomber-hd3.png": {
+		"frame": {"x":0, "y":0, "w":92, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":92,"h":72},
+		"sourceSize": {"w":92,"h":72}
+	},
+	"bomber-hd4.png": {
+		"frame": {"x":174, "y":150, "w":84, "h":76},
+		"spriteSourceSize": {"x":0,"y":0,"w":84,"h":76},
+		"sourceSize": {"w":84,"h":76}
+	},
+	"bomber-hd5.png": {
+		"frame": {"x":89, "y":73, "w":88, "h":76},
+		"spriteSourceSize": {"x":0,"y":0,"w":88,"h":76},
+		"sourceSize": {"w":88,"h":76}
+	},
+	"bomber-hd6.png": {
+		"frame": {"x":0, "y":73, "w":88, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":88,"h":72},
+		"sourceSize": {"w":88,"h":72}
+	}
+
+},
+"meta": {
+	"image": "bomber.png",
+	"size": {"w": 259, "h": 227},
+	"scale": "1"
+}
+}

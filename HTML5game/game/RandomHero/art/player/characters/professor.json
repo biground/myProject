@@ -1,0 +1,55 @@
+{
+"frames": {
+	"professor-fall1.png": {
+		"frame": {"x":0, "y":69, "w":64, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+		"sourceSize": {"w":64,"h":72}
+	},
+	"professor-idle1.png": {
+		"frame": {"x":122, "y":146, "w":52, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":52,"h":72},
+		"sourceSize": {"w":52,"h":72}
+	},
+	"professor-jump1.png": {
+		"frame": {"x":0, "y":142, "w":60, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":72},
+		"sourceSize": {"w":60,"h":72}
+	},
+	"professor-run1.png": {
+		"frame": {"x":122, "y":73, "w":56, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":72},
+		"sourceSize": {"w":56,"h":72}
+	},
+	"professor-run2.png": {
+		"frame": {"x":61, "y":142, "w":60, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":72},
+		"sourceSize": {"w":60,"h":72}
+	},
+	"professor-run3.png": {
+		"frame": {"x":0, "y":0, "w":64, "h":68},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":68},
+		"sourceSize": {"w":64,"h":68}
+	},
+	"professor-run4.png": {
+		"frame": {"x":65, "y":0, "w":56, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":72},
+		"sourceSize": {"w":56,"h":72}
+	},
+	"professor-run5.png": {
+		"frame": {"x":122, "y":0, "w":56, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":72},
+		"sourceSize": {"w":56,"h":72}
+	},
+	"professor-run6.png": {
+		"frame": {"x":65, "y":73, "w":52, "h":68},
+		"spriteSourceSize": {"x":0,"y":0,"w":52,"h":68},
+		"sourceSize": {"w":52,"h":68}
+	}
+
+},
+"meta": {
+	"image": "professor.png",
+	"size": {"w": 179, "h": 219},
+	"scale": "1"
+}
+}

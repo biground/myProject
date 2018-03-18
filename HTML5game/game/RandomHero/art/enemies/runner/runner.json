@@ -1,0 +1,40 @@
+{
+"frames": {
+	"walk1": {
+		"frame": {"x":105, "y":61, "w":100, "h":64},
+		"spriteSourceSize": {"x":0,"y":0,"w":100,"h":64},
+		"sourceSize": {"w":100,"h":64}
+	},
+	"walk2": {
+		"frame": {"x":0, "y":126, "w":104, "h":64},
+		"spriteSourceSize": {"x":0,"y":0,"w":104,"h":64},
+		"sourceSize": {"w":104,"h":64}
+	},
+	"walk3": {
+		"frame": {"x":0, "y":0, "w":108, "h":60},
+		"spriteSourceSize": {"x":0,"y":0,"w":108,"h":60},
+		"sourceSize": {"w":108,"h":60}
+	},
+	"walk4": {
+		"frame": {"x":0, "y":61, "w":104, "h":64},
+		"spriteSourceSize": {"x":0,"y":0,"w":104,"h":64},
+		"sourceSize": {"w":104,"h":64}
+	},
+	"walk5": {
+		"frame": {"x":105, "y":126, "w":100, "h":64},
+		"spriteSourceSize": {"x":0,"y":1,"w":100,"h":65},
+		"sourceSize": {"w":100,"h":65}
+	},
+	"walk6": {
+		"frame": {"x":109, "y":0, "w":96, "h":60},
+		"spriteSourceSize": {"x":0,"y":0,"w":96,"h":60},
+		"sourceSize": {"w":96,"h":60}
+	}
+
+},
+"meta": {
+	"image": "runner.png",
+	"size": {"w": 206, "h": 191},
+	"scale": "1"
+}
+}

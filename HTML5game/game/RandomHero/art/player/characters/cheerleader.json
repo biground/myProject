@@ -1,0 +1,55 @@
+{
+"frames": {
+	"cheerleader-fall1.png": {
+		"frame": {"x":0, "y":0, "w":92, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":92,"h":88},
+		"sourceSize": {"w":92,"h":88}
+	},
+	"cheerleader-idle1.png": {
+		"frame": {"x":178, "y":89, "w":76, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":76,"h":88},
+		"sourceSize": {"w":76,"h":88}
+	},
+	"cheerleader-jump1.png": {
+		"frame": {"x":89, "y":174, "w":88, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":88,"h":88},
+		"sourceSize": {"w":88,"h":88}
+	},
+	"cheerleader-run1.png": {
+		"frame": {"x":178, "y":178, "w":76, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":76,"h":88},
+		"sourceSize": {"w":76,"h":88}
+	},
+	"cheerleader-run2.png": {
+		"frame": {"x":0, "y":174, "w":88, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":88,"h":88},
+		"sourceSize": {"w":88,"h":88}
+	},
+	"cheerleader-run3.png": {
+		"frame": {"x":0, "y":89, "w":92, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":92,"h":84},
+		"sourceSize": {"w":92,"h":84}
+	},
+	"cheerleader-run4.png": {
+		"frame": {"x":93, "y":0, "w":80, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":80,"h":88},
+		"sourceSize": {"w":80,"h":88}
+	},
+	"cheerleader-run5.png": {
+		"frame": {"x":174, "y":0, "w":76, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":76,"h":88},
+		"sourceSize": {"w":76,"h":88}
+	},
+	"cheerleader-run6.png": {
+		"frame": {"x":93, "y":89, "w":76, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":76,"h":84},
+		"sourceSize": {"w":76,"h":84}
+	}
+
+},
+"meta": {
+	"image": "cheerleader.png",
+	"size": {"w": 255, "h": 267},
+	"scale": "1"
+}
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0"/>
+<title>翻牌记忆力游戏</title>
+<link href="styles/matchgame.css" rel="stylesheet">
+</head>
+<body>
+<script type="text/javascript" src="scripts/game.js"></script>
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script>
+<section id="game">
+    <div id="cards">
+        <div id="enddiv">
+            <p class="end">游戏结束</p>
+            <div class="p">
+                <p class="step"></p>
+                <p class="time"></p>
+            </div>
+            <button id="button">继续</button>
+        </div>
+    </div>
+</section>
+<script>
+    $(function () {
+        refresh();
+        $("#button").click(refresh);
+    });
+</script>
+<div style="text-align:center;">
+<p>作者:2015030405005陈元通</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,20 @@
+{
+"frames": {
+	"lift1": {
+		"frame": {"x":0, "y":53, "w":96, "h":52},
+		"spriteSourceSize": {"x":0,"y":0,"w":96,"h":52},
+		"sourceSize": {"w":96,"h":52}
+	},
+	"lift2": {
+		"frame": {"x":0, "y":0, "w":96, "h":52},
+		"spriteSourceSize": {"x":0,"y":0,"w":96,"h":52},
+		"sourceSize": {"w":96,"h":52}
+	}
+
+},
+"meta": {
+	"image": "sprites.png",
+	"size": {"w": 97, "h": 106},
+	"scale": "1"
+}
+}

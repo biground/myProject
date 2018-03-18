@@ -1,0 +1,35 @@
+{
+"frames": {
+	"idle": {
+		"frame": {"x":113, "y":0, "w":112, "h":80},
+		"spriteSourceSize": {"x":0,"y":0,"w":112,"h":80},
+		"sourceSize": {"w":112,"h":80}
+	},
+	"shoot1": {
+		"frame": {"x":113, "y":81, "w":108, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":108,"h":96},
+		"sourceSize": {"w":108,"h":96}
+	},
+	"shoot2": {
+		"frame": {"x":113, "y":178, "w":108, "h":112},
+		"spriteSourceSize": {"x":0,"y":0,"w":108,"h":112},
+		"sourceSize": {"w":108,"h":112}
+	},
+	"shoot3": {
+		"frame": {"x":0, "y":125, "w":112, "h":124},
+		"spriteSourceSize": {"x":0,"y":0,"w":112,"h":124},
+		"sourceSize": {"w":112,"h":124}
+	},
+	"shoot4": {
+		"frame": {"x":0, "y":0, "w":112, "h":124},
+		"spriteSourceSize": {"x":0,"y":0,"w":112,"h":124},
+		"sourceSize": {"w":112,"h":124}
+	}
+
+},
+"meta": {
+	"image": "brainworm.png",
+	"size": {"w": 226, "h": 291},
+	"scale": "1"
+}
+}

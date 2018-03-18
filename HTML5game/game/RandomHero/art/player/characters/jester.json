@@ -1,0 +1,55 @@
+{
+"frames": {
+	"jester-fall1.png": {
+		"frame": {"x":0, "y":190, "w":80, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":80,"h":96},
+		"sourceSize": {"w":80,"h":96}
+	},
+	"jester-idle1.png": {
+		"frame": {"x":158, "y":190, "w":76, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":76,"h":96},
+		"sourceSize": {"w":76,"h":96}
+	},
+	"jester-jump1.png": {
+		"frame": {"x":0, "y":93, "w":80, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":80,"h":96},
+		"sourceSize": {"w":80,"h":96}
+	},
+	"jester-run1.png": {
+		"frame": {"x":81, "y":194, "w":76, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":76,"h":96},
+		"sourceSize": {"w":76,"h":96}
+	},
+	"jester-run2.png": {
+		"frame": {"x":81, "y":0, "w":76, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":76,"h":96},
+		"sourceSize": {"w":76,"h":96}
+	},
+	"jester-run3.png": {
+		"frame": {"x":0, "y":0, "w":80, "h":92},
+		"spriteSourceSize": {"x":0,"y":0,"w":80,"h":92},
+		"sourceSize": {"w":80,"h":92}
+	},
+	"jester-run4.png": {
+		"frame": {"x":81, "y":97, "w":76, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":76,"h":96},
+		"sourceSize": {"w":76,"h":96}
+	},
+	"jester-run5.png": {
+		"frame": {"x":158, "y":93, "w":76, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":76,"h":96},
+		"sourceSize": {"w":76,"h":96}
+	},
+	"jester-run6.png": {
+		"frame": {"x":158, "y":0, "w":76, "h":92},
+		"spriteSourceSize": {"x":0,"y":0,"w":76,"h":92},
+		"sourceSize": {"w":76,"h":92}
+	}
+
+},
+"meta": {
+	"image": "jester.png",
+	"size": {"w": 235, "h": 291},
+	"scale": "1"
+}
+}

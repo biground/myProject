@@ -1,0 +1,55 @@
+{
+"frames": {
+	"bank_fall1.png": {
+		"frame": {"x":0, "y":0, "w":68, "h":80},
+		"spriteSourceSize": {"x":0,"y":0,"w":68,"h":80},
+		"sourceSize": {"w":68,"h":80}
+	},
+	"bank_idle1.png": {
+		"frame": {"x":126, "y":81, "w":56, "h":80},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":80},
+		"sourceSize": {"w":56,"h":80}
+	},
+	"bank_jump1.png": {
+		"frame": {"x":0, "y":158, "w":64, "h":80},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":80},
+		"sourceSize": {"w":64,"h":80}
+	},
+	"bank_run1.png": {
+		"frame": {"x":126, "y":0, "w":56, "h":80},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":80},
+		"sourceSize": {"w":56,"h":80}
+	},
+	"bank_run2.png": {
+		"frame": {"x":65, "y":162, "w":52, "h":76},
+		"spriteSourceSize": {"x":0,"y":0,"w":52,"h":76},
+		"sourceSize": {"w":52,"h":76}
+	},
+	"bank_run3.png": {
+		"frame": {"x":0, "y":81, "w":64, "h":76},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":76},
+		"sourceSize": {"w":64,"h":76}
+	},
+	"bank_run4.png": {
+		"frame": {"x":69, "y":0, "w":56, "h":80},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":80},
+		"sourceSize": {"w":56,"h":80}
+	},
+	"bank_run5.png": {
+		"frame": {"x":65, "y":81, "w":60, "h":80},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":80},
+		"sourceSize": {"w":60,"h":80}
+	},
+	"bank_run6.png": {
+		"frame": {"x":65, "y":162, "w":52, "h":76},
+		"spriteSourceSize": {"x":0,"y":0,"w":52,"h":76},
+		"sourceSize": {"w":52,"h":76}
+	}
+
+},
+"meta": {
+	"image": "bank.png",
+	"size": {"w": 183, "h": 239},
+	"scale": "1"
+}
+}

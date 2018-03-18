@@ -1,0 +1,55 @@
+{
+"frames": {
+	"rambo-fall1.png": {
+		"frame": {"x":0, "y":89, "w":68, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":68,"h":88},
+		"sourceSize": {"w":68,"h":88}
+	},
+	"rambo-idle1.png": {
+		"frame": {"x":130, "y":89, "w":60, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":88},
+		"sourceSize": {"w":60,"h":88}
+	},
+	"rambo-jump1.png": {
+		"frame": {"x":0, "y":0, "w":68, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":68,"h":88},
+		"sourceSize": {"w":68,"h":88}
+	},
+	"rambo-run1.png": {
+		"frame": {"x":191, "y":89, "w":60, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":88},
+		"sourceSize": {"w":60,"h":88}
+	},
+	"rambo-run2.png": {
+		"frame": {"x":69, "y":0, "w":64, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":88},
+		"sourceSize": {"w":64,"h":88}
+	},
+	"rambo-run3.png": {
+		"frame": {"x":0, "y":178, "w":68, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":68,"h":84},
+		"sourceSize": {"w":68,"h":84}
+	},
+	"rambo-run4.png": {
+		"frame": {"x":69, "y":174, "w":60, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":88},
+		"sourceSize": {"w":60,"h":88}
+	},
+	"rambo-run5.png": {
+		"frame": {"x":134, "y":0, "w":60, "h":88},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":88},
+		"sourceSize": {"w":60,"h":88}
+	},
+	"rambo-run6.png": {
+		"frame": {"x":69, "y":89, "w":60, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":84},
+		"sourceSize": {"w":60,"h":84}
+	}
+
+},
+"meta": {
+	"image": "rambo.png",
+	"size": {"w": 252, "h": 263},
+	"scale": "1"
+}
+}

@@ -1,0 +1,105 @@
+{
+"frames": {
+	"hulk_beam1": {
+		"frame": {"x":0, "y":493, "w":2, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":2,"h":28},
+		"sourceSize": {"w":2,"h":28}
+	},
+	"hulk_beam2": {
+		"frame": {"x":0, "y":464, "w":2, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":2,"h":28},
+		"sourceSize": {"w":2,"h":28}
+	},
+	"hulk_charge1": {
+		"frame": {"x":359, "y":383, "w":108, "h":128},
+		"spriteSourceSize": {"x":0,"y":0,"w":108,"h":128},
+		"sourceSize": {"w":108,"h":128}
+	},
+	"hulk_charge2": {
+		"frame": {"x":359, "y":258, "w":108, "h":124},
+		"spriteSourceSize": {"x":0,"y":0,"w":108,"h":124},
+		"sourceSize": {"w":108,"h":124}
+	},
+	"hulk_charge3": {
+		"frame": {"x":242, "y":262, "w":116, "h":120},
+		"spriteSourceSize": {"x":0,"y":0,"w":116,"h":120},
+		"sourceSize": {"w":116,"h":120}
+	},
+	"hulk_charge4": {
+		"frame": {"x":0, "y":339, "w":120, "h":116},
+		"spriteSourceSize": {"x":0,"y":0,"w":120,"h":116},
+		"sourceSize": {"w":120,"h":116}
+	},
+	"hulk_charge5": {
+		"frame": {"x":0, "y":226, "w":128, "h":112},
+		"spriteSourceSize": {"x":0,"y":0,"w":128,"h":112},
+		"sourceSize": {"w":128,"h":112}
+	},
+	"hulk_idle1": {
+		"frame": {"x":359, "y":383, "w":108, "h":128},
+		"spriteSourceSize": {"x":0,"y":0,"w":108,"h":128},
+		"sourceSize": {"w":108,"h":128}
+	},
+	"hulk_idle2": {
+		"frame": {"x":278, "y":0, "w":108, "h":128},
+		"spriteSourceSize": {"x":0,"y":0,"w":108,"h":128},
+		"sourceSize": {"w":108,"h":128}
+	},
+	"hulk_idle3": {
+		"frame": {"x":161, "y":0, "w":116, "h":128},
+		"spriteSourceSize": {"x":0,"y":0,"w":116,"h":128},
+		"sourceSize": {"w":116,"h":128}
+	},
+	"hulk_idle4": {
+		"frame": {"x":161, "y":129, "w":116, "h":132},
+		"spriteSourceSize": {"x":0,"y":0,"w":116,"h":132},
+		"sourceSize": {"w":116,"h":132}
+	},
+	"hulk_run1": {
+		"frame": {"x":278, "y":129, "w":108, "h":128},
+		"spriteSourceSize": {"x":0,"y":0,"w":108,"h":128},
+		"sourceSize": {"w":108,"h":128}
+	},
+	"hulk_run2": {
+		"frame": {"x":242, "y":383, "w":116, "h":128},
+		"spriteSourceSize": {"x":0,"y":0,"w":116,"h":128},
+		"sourceSize": {"w":116,"h":128}
+	},
+	"hulk_run3": {
+		"frame": {"x":121, "y":339, "w":120, "h":124},
+		"spriteSourceSize": {"x":0,"y":0,"w":120,"h":124},
+		"sourceSize": {"w":120,"h":124}
+	},
+	"hulk_run4": {
+		"frame": {"x":387, "y":0, "w":108, "h":128},
+		"spriteSourceSize": {"x":0,"y":0,"w":108,"h":128},
+		"sourceSize": {"w":108,"h":128}
+	},
+	"hulk_run5": {
+		"frame": {"x":387, "y":129, "w":96, "h":128},
+		"spriteSourceSize": {"x":0,"y":0,"w":96,"h":128},
+		"sourceSize": {"w":96,"h":128}
+	},
+	"hulk_run6": {
+		"frame": {"x":468, "y":258, "w":96, "h":124},
+		"spriteSourceSize": {"x":0,"y":0,"w":96,"h":124},
+		"sourceSize": {"w":96,"h":124}
+	},
+	"hulk_shoot1": {
+		"frame": {"x":0, "y":0, "w":160, "h":112},
+		"spriteSourceSize": {"x":0,"y":0,"w":160,"h":112},
+		"sourceSize": {"w":160,"h":112}
+	},
+	"hulk_shoot2": {
+		"frame": {"x":0, "y":113, "w":160, "h":112},
+		"spriteSourceSize": {"x":0,"y":0,"w":160,"h":112},
+		"sourceSize": {"w":160,"h":112}
+	}
+
+},
+"meta": {
+	"image": "hulk.png",
+	"size": {"w": 565, "h": 522},
+	"scale": "1"
+}
+}

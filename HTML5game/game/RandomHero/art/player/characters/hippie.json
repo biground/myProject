@@ -1,0 +1,55 @@
+{
+"frames": {
+	"hippie-fall1.png": {
+		"frame": {"x":0, "y":190, "w":76, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":76,"h":96},
+		"sourceSize": {"w":76,"h":96}
+	},
+	"hippie-idle1.png": {
+		"frame": {"x":150, "y":97, "w":72, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":72,"h":96},
+		"sourceSize": {"w":72,"h":96}
+	},
+	"hippie-jump1.png": {
+		"frame": {"x":0, "y":93, "w":76, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":76,"h":96},
+		"sourceSize": {"w":76,"h":96}
+	},
+	"hippie-run1.png": {
+		"frame": {"x":77, "y":190, "w":72, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":72,"h":96},
+		"sourceSize": {"w":72,"h":96}
+	},
+	"hippie-run2.png": {
+		"frame": {"x":150, "y":194, "w":72, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":72,"h":96},
+		"sourceSize": {"w":72,"h":96}
+	},
+	"hippie-run3.png": {
+		"frame": {"x":0, "y":0, "w":76, "h":92},
+		"spriteSourceSize": {"x":0,"y":0,"w":76,"h":92},
+		"sourceSize": {"w":76,"h":92}
+	},
+	"hippie-run4.png": {
+		"frame": {"x":77, "y":93, "w":72, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":72,"h":96},
+		"sourceSize": {"w":72,"h":96}
+	},
+	"hippie-run5.png": {
+		"frame": {"x":150, "y":0, "w":72, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":72,"h":96},
+		"sourceSize": {"w":72,"h":96}
+	},
+	"hippie-run6.png": {
+		"frame": {"x":77, "y":0, "w":72, "h":92},
+		"spriteSourceSize": {"x":0,"y":0,"w":72,"h":92},
+		"sourceSize": {"w":72,"h":92}
+	}
+
+},
+"meta": {
+	"image": "hippie.png",
+	"size": {"w": 223, "h": 291},
+	"scale": "1"
+}
+}

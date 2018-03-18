@@ -1,0 +1,45 @@
+{
+"frames": {
+	"walk1": {
+		"frame": {"x":118, "y":150, "w":56, "h":76},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":76},
+		"sourceSize": {"w":56,"h":76}
+	},
+	"walk2": {
+		"frame": {"x":0, "y":150, "w":60, "h":76},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":76},
+		"sourceSize": {"w":60,"h":76}
+	},
+	"walk3": {
+		"frame": {"x":0, "y":0, "w":64, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+		"sourceSize": {"w":64,"h":72}
+	},
+	"walk4": {
+		"frame": {"x":61, "y":73, "w":60, "h":76},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":76},
+		"sourceSize": {"w":60,"h":76}
+	},
+	"walk5": {
+		"frame": {"x":61, "y":150, "w":56, "h":76},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":76},
+		"sourceSize": {"w":56,"h":76}
+	},
+	"walk6": {
+		"frame": {"x":65, "y":0, "w":56, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":72},
+		"sourceSize": {"w":56,"h":72}
+	},
+	"dead": {
+		"frame": {"x":0, "y":73, "w":60, "h":76},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":76},
+		"sourceSize": {"w":60,"h":76}
+	}
+
+},
+"meta": {
+	"image": "basic_zombie.png",
+	"size": {"w": 175, "h": 227},
+	"scale": "1"
+}
+}

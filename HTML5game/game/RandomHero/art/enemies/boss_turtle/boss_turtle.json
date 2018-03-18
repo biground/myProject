@@ -1,0 +1,100 @@
+{
+"frames": {
+	"hide1": {
+		"frame": {"x":193, "y":0, "w":188, "h":144},
+		"spriteSourceSize": {"x":0,"y":0,"w":188,"h":144},
+		"sourceSize": {"w":188,"h":144}
+	},
+	"hide2": {
+		"frame": {"x":567, "y":435, "w":188, "h":144},
+		"spriteSourceSize": {"x":0,"y":0,"w":188,"h":144},
+		"sourceSize": {"w":188,"h":144}
+	},
+	"hide3": {
+		"frame": {"x":567, "y":290, "w":188, "h":144},
+		"spriteSourceSize": {"x":0,"y":0,"w":188,"h":144},
+		"sourceSize": {"w":188,"h":144}
+	},
+	"hide4": {
+		"frame": {"x":567, "y":145, "w":188, "h":144},
+		"spriteSourceSize": {"x":0,"y":0,"w":188,"h":144},
+		"sourceSize": {"w":188,"h":144}
+	},
+	"hide5": {
+		"frame": {"x":382, "y":0, "w":188, "h":144},
+		"spriteSourceSize": {"x":0,"y":0,"w":188,"h":144},
+		"sourceSize": {"w":188,"h":144}
+	},
+	"hide6": {
+		"frame": {"x":378, "y":624, "w":188, "h":144},
+		"spriteSourceSize": {"x":0,"y":0,"w":188,"h":144},
+		"sourceSize": {"w":188,"h":144}
+	},
+	"hide7": {
+		"frame": {"x":378, "y":479, "w":188, "h":144},
+		"spriteSourceSize": {"x":0,"y":0,"w":188,"h":144},
+		"sourceSize": {"w":188,"h":144}
+	},
+	"hide8": {
+		"frame": {"x":378, "y":334, "w":188, "h":144},
+		"spriteSourceSize": {"x":0,"y":0,"w":188,"h":144},
+		"sourceSize": {"w":188,"h":144}
+	},
+	"idle1": {
+		"frame": {"x":0, "y":145, "w":192, "h":144},
+		"spriteSourceSize": {"x":0,"y":0,"w":192,"h":144},
+		"sourceSize": {"w":192,"h":144}
+	},
+	"idle2": {
+		"frame": {"x":0, "y":0, "w":192, "h":144},
+		"spriteSourceSize": {"x":0,"y":0,"w":192,"h":144},
+		"sourceSize": {"w":192,"h":144}
+	},
+	"shoot1": {
+		"frame": {"x":189, "y":652, "w":188, "h":156},
+		"spriteSourceSize": {"x":0,"y":0,"w":188,"h":156},
+		"sourceSize": {"w":188,"h":156}
+	},
+	"shoot2": {
+		"frame": {"x":189, "y":479, "w":188, "h":172},
+		"spriteSourceSize": {"x":0,"y":0,"w":188,"h":172},
+		"sourceSize": {"w":188,"h":172}
+	},
+	"shoot3": {
+		"frame": {"x":189, "y":290, "w":188, "h":188},
+		"spriteSourceSize": {"x":0,"y":0,"w":188,"h":188},
+		"sourceSize": {"w":188,"h":188}
+	},
+	"shoot4": {
+		"frame": {"x":0, "y":620, "w":188, "h":188},
+		"spriteSourceSize": {"x":0,"y":0,"w":188,"h":188},
+		"sourceSize": {"w":188,"h":188}
+	},
+	"shoot5": {
+		"frame": {"x":0, "y":463, "w":188, "h":156},
+		"spriteSourceSize": {"x":0,"y":0,"w":188,"h":156},
+		"sourceSize": {"w":188,"h":156}
+	},
+	"shoot6": {
+		"frame": {"x":0, "y":290, "w":188, "h":172},
+		"spriteSourceSize": {"x":0,"y":0,"w":188,"h":172},
+		"sourceSize": {"w":188,"h":172}
+	},
+	"shoot7": {
+		"frame": {"x":378, "y":145, "w":188, "h":188},
+		"spriteSourceSize": {"x":0,"y":0,"w":188,"h":188},
+		"sourceSize": {"w":188,"h":188}
+	},
+	"shoot8": {
+		"frame": {"x":567, "y":580, "w":188, "h":188},
+		"spriteSourceSize": {"x":0,"y":0,"w":188,"h":188},
+		"sourceSize": {"w":188,"h":188}
+	}
+
+},
+"meta": {
+	"image": "boss_turtle.png",
+	"size": {"w": 756, "h": 809},
+	"scale": "1"
+}
+}

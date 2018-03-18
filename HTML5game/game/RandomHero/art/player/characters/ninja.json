@@ -1,0 +1,55 @@
+{
+"frames": {
+	"ninja-fall1.png": {
+		"frame": {"x":0, "y":0, "w":68, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":68,"h":84},
+		"sourceSize": {"w":68,"h":84}
+	},
+	"ninja-idle1.png": {
+		"frame": {"x":187, "y":0, "w":56, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":84},
+		"sourceSize": {"w":56,"h":84}
+	},
+	"ninja-jump1.png": {
+		"frame": {"x":65, "y":85, "w":64, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":84},
+		"sourceSize": {"w":64,"h":84}
+	},
+	"ninja-run1.png": {
+		"frame": {"x":187, "y":85, "w":56, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":84},
+		"sourceSize": {"w":56,"h":84}
+	},
+	"ninja-run2.png": {
+		"frame": {"x":69, "y":0, "w":60, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":84},
+		"sourceSize": {"w":60,"h":84}
+	},
+	"ninja-run3.png": {
+		"frame": {"x":0, "y":85, "w":64, "h":80},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":80},
+		"sourceSize": {"w":64,"h":80}
+	},
+	"ninja-run4.png": {
+		"frame": {"x":130, "y":85, "w":56, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":84},
+		"sourceSize": {"w":56,"h":84}
+	},
+	"ninja-run5.png": {
+		"frame": {"x":130, "y":0, "w":56, "h":84},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":84},
+		"sourceSize": {"w":56,"h":84}
+	},
+	"ninja-run6.png": {
+		"frame": {"x":0, "y":166, "w":52, "h":80},
+		"spriteSourceSize": {"x":0,"y":0,"w":52,"h":80},
+		"sourceSize": {"w":52,"h":80}
+	}
+
+},
+"meta": {
+	"image": "ninja.png",
+	"size": {"w": 244, "h": 247},
+	"scale": "1"
+}
+}

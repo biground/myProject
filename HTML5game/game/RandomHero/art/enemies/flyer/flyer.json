@@ -1,0 +1,30 @@
+{
+"frames": {
+	"fly1": {
+		"frame": {"x":0, "y":73, "w":64, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+		"sourceSize": {"w":64,"h":72}
+	},
+	"fly2": {
+		"frame": {"x":65, "y":0, "w":52, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":52,"h":72},
+		"sourceSize": {"w":52,"h":72}
+	},
+	"fly3": {
+		"frame": {"x":0, "y":0, "w":64, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+		"sourceSize": {"w":64,"h":72}
+	},
+	"fly4": {
+		"frame": {"x":65, "y":73, "w":52, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":52,"h":72},
+		"sourceSize": {"w":52,"h":72}
+	}
+
+},
+"meta": {
+	"image": "flyer.png",
+	"size": {"w": 118, "h": 146},
+	"scale": "1"
+}
+}

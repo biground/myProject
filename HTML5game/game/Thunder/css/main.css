@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#contentdiv{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+@media screen and (min-width: 768px) {
+    #contentdiv {
+        position: absolute;
+        width: 320px;
+        height: 568px;
+    }
+}
+
+button{
+    outline: none;
+}
+
+#startdiv{
+    width: 100%;
+    height: 100%;
+    background-image: url("../image/开始背景.png");
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+
+#startdiv button{
+    position: absolute;
+    top: 85%;
+    left: 25%;
+    width: 50%;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: #c4c9ca;
+}
+
+#maindiv{
+    width: 100%;
+    height: 100%;
+    background-image: url("../image/background_1.png");
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    display: none;
+}
+
+#maindiv img{
+    position: absolute;
+    z-index: 1;
+}
+
+#suspenddiv{
+    position: absolute;
+    top: 35%;
+    left: 25%;
+    width: 50%;
+    display: none;
+    z-index: 2;
+}
+#suspenddiv button{
+    width: 100%;
+    height: 3em;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: #c4c9ca;
+}
+
+
+#enddiv{
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    width: 50%;
+    border: 1px solid gray;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #d7ddde;
+    display: none;
+    z-index: 2;
+}
+#enddiv div{
+    width: 100%;
+    height: 3em;
+}
+#enddiv div button{
+    margin-top:10px ;
+    width: 90px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 30px;
+}
+
+.planetext{
+    width: 100%;
+    height: 2em;
+    line-height: 2em;
+    font-size: 1em;
+    font-weight: bold;
+}
+#planescore{
+    width: 100%;
+    height: 6em;
+    line-height: 6em;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+#scorediv{
+	font-size: 16px;
+	font-weight: bold;
+	position: absolute;
+	top: 1em;
+	left: 5%;
+	display: none;
+}
+#lefttimediv{
+     font-size: 1em;
+     font-weight: bold;
+     position: absolute;
+     top: 1em;
+     left: 65%;
+     display: none;
+}
+#introducediv{
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    width: 50%;
+    border: 1px solid gray;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #d7ddde;
+    display: none;
+    z-index: 2;
+}
+
+#introduce{
+    width: 100%;
+    line-height: 2em;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+#introducediv div{
+    width: 100%;
+    height: 3em;
+}
+
+#introducediv div button{
+    margin-top:0.7em;
+    width: 50%;
+    height: 2em;
+    border: 1px solid gray;
+    border-radius: 30px;
+}
+	
+	
+	
+	
+	
+	
+	

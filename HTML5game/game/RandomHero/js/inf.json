@@ -1,0 +1,145 @@
+{
+  "player":{
+      "money":0,
+      "gun":0,
+      "player":0
+  },
+  "music":true,
+  "sfx":true,
+  "current_chapter" : 0,
+  "current_level" : 0,
+  "chapter":[
+    {
+      "index": 0,
+      "name": "THE CITY",
+      "lock": false,
+      "level": [
+        {
+          "index": 0,
+          "lock": false
+        },{
+          "index": 1,
+          "lock": true
+        },{
+          "index": 2,
+          "lock": true
+        },{
+          "index": 3,
+          "lock": true
+        },{
+          "index": 4,
+          "lock": true
+        },{
+          "index": 5,
+          "lock": true
+        },{
+          "index": 6,
+          "lock": true
+        },{
+          "index": 7,
+          "lock": true
+        },{
+          "index": 8,
+          "lock": true
+        },{
+          "index": 9,
+          "lock": true
+        },{
+          "index": 10,
+          "lock": true
+        },{
+          "index": 11,
+          "lock": true
+        }
+      ]
+    },
+    {
+      "index": 0,
+      "name": "THE SEWERS",
+      "lock": false,
+      "level": [
+        {
+          "index": 0,
+          "lock": false
+        },{
+          "index": 1,
+          "lock": true
+        },{
+          "index": 2,
+          "lock": true
+        },{
+          "index": 3,
+          "lock": true
+        },{
+          "index": 4,
+          "lock": true
+        },{
+          "index": 5,
+          "lock": true
+        },{
+          "index": 6,
+          "lock": true
+        },{
+          "index": 7,
+          "lock": true
+        },{
+          "index": 8,
+          "lock": false
+        },{
+          "index": 9,
+          "lock": false
+        },{
+          "index": 10,
+          "lock": true
+        },{
+          "index": 11,
+          "lock": true
+        }
+      ]
+    },
+    {
+      "index": 0,
+      "name": "THE CEMETERY",
+      "lock": true,
+      "level": [
+        {
+          "index": 0,
+          "lock": false
+        },{
+          "index": 1,
+          "lock": true
+        },{
+          "index": 2,
+          "lock": true
+        },{
+          "index": 3,
+          "lock": true
+        },{
+          "index": 4,
+          "lock": true
+        },{
+          "index": 5,
+          "lock": true
+        },{
+          "index": 6,
+          "lock": true
+        },{
+          "index": 7,
+          "lock": true
+        },{
+          "index": 8,
+          "lock": true
+        },{
+          "index": 9,
+          "lock": true
+        },{
+          "index": 10,
+          "lock": true
+        },{
+          "index": 11,
+          "lock": true
+        }
+      ]
+    }
+  ]
+}

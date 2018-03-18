@@ -1,0 +1,100 @@
+{
+"frames": {
+	"crystal_skull1": {
+		"frame": {"x":49, "y":41, "w":48, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":40},
+		"sourceSize": {"w":48,"h":40}
+	},
+	"crystal_skull2": {
+		"frame": {"x":0, "y":82, "w":48, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":40},
+		"sourceSize": {"w":48,"h":40}
+	},
+	"crystal_skull3": {
+		"frame": {"x":0, "y":41, "w":48, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":40},
+		"sourceSize": {"w":48,"h":40}
+	},
+	"crystal_skull4": {
+		"frame": {"x":49, "y":0, "w":48, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":40},
+		"sourceSize": {"w":48,"h":40}
+	},
+	"crystal_skull5": {
+		"frame": {"x":0, "y":0, "w":48, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":40},
+		"sourceSize": {"w":48,"h":40}
+	},
+	"gold_coin1": {
+		"frame": {"x":49, "y":115, "w":32, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+		"sourceSize": {"w":32,"h":32}
+	},
+	"gold_coin2": {
+		"frame": {"x":98, "y":0, "w":28, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":32},
+		"sourceSize": {"w":28,"h":32}
+	},
+	"gold_coin3": {
+		"frame": {"x":111, "y":99, "w":24, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":24,"h":32},
+		"sourceSize": {"w":24,"h":32}
+	},
+	"gold_coin4": {
+		"frame": {"x":136, "y":99, "w":16, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":16,"h":32},
+		"sourceSize": {"w":16,"h":32}
+	},
+	"gold_coin5": {
+		"frame": {"x":127, "y":0, "w":24, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":24,"h":32},
+		"sourceSize": {"w":24,"h":32}
+	},
+	"gold_coin6": {
+		"frame": {"x":82, "y":115, "w":28, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":32},
+		"sourceSize": {"w":28,"h":32}
+	},
+	"medikit1": {
+		"frame": {"x":0, "y":123, "w":36, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":36,"h":28},
+		"sourceSize": {"w":36,"h":28}
+	},
+	"silver_coin1": {
+		"frame": {"x":49, "y":82, "w":32, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+		"sourceSize": {"w":32,"h":32}
+	},
+	"silver_coin2": {
+		"frame": {"x":82, "y":82, "w":28, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":32},
+		"sourceSize": {"w":28,"h":32}
+	},
+	"silver_coin3": {
+		"frame": {"x":111, "y":66, "w":24, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":24,"h":32},
+		"sourceSize": {"w":24,"h":32}
+	},
+	"silver_coin4": {
+		"frame": {"x":136, "y":66, "w":16, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":16,"h":32},
+		"sourceSize": {"w":16,"h":32}
+	},
+	"silver_coin5": {
+		"frame": {"x":126, "y":33, "w":24, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":24,"h":32},
+		"sourceSize": {"w":24,"h":32}
+	},
+	"silver_coin6": {
+		"frame": {"x":98, "y":33, "w":27, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":27,"h":32},
+		"sourceSize": {"w":27,"h":32}
+	}
+
+},
+"meta": {
+	"image": "pickups.png",
+	"size": {"w": 153, "h": 152},
+	"scale": "1"
+}
+}
